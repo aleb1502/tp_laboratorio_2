@@ -1,0 +1,11 @@
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\bin\Release\Clases Instanciables.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\bin\Release\Clases Instanciables.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\bin\Release\Archivos.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\bin\Release\Clases Abstractas.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\bin\Release\Excepciones.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\bin\Release\Archivos.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\bin\Release\Clases Abstractas.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\bin\Release\Excepciones.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\obj\Release\Clases Instanciables.csprojResolveAssemblyReference.cache
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\obj\Release\Clases Instanciables.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Clases Instanciables\obj\Release\Clases Instanciables.pdb

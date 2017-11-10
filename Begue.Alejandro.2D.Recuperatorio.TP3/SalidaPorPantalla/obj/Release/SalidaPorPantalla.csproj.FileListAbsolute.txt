@@ -1,0 +1,14 @@
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\SalidaPorPantalla.exe.config
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\SalidaPorPantalla.exe
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\SalidaPorPantalla.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\Archivos.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\Clases Abstractas.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\Clases Instanciables.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\Excepciones.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\Archivos.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\Clases Abstractas.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\Clases Instanciables.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\bin\Release\Excepciones.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\obj\Release\SalidaPorPantalla.csprojResolveAssemblyReference.cache
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\obj\Release\SalidaPorPantalla.exe
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\SalidaPorPantalla\obj\Release\SalidaPorPantalla.pdb

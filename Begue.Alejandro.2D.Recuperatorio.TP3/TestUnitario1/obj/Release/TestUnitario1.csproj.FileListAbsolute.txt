@@ -1,0 +1,15 @@
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\TestUnitario1.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\TestUnitario1.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\Archivos.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\Clases Abstractas.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\Clases Instanciables.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\Excepciones.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\SalidaPorPantalla.exe
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\Archivos.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\Clases Abstractas.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\Clases Instanciables.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\Excepciones.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Release\SalidaPorPantalla.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Release\TestUnitario1.csprojResolveAssemblyReference.cache
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Release\TestUnitario1.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Release\TestUnitario1.pdb

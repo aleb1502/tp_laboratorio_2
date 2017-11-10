@@ -1,0 +1,9 @@
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Archivos\bin\Release\Archivos.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Archivos\bin\Release\Archivos.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Archivos\bin\Release\Clases Abstractas.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Archivos\bin\Release\Excepciones.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Archivos\bin\Release\Clases Abstractas.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Archivos\bin\Release\Excepciones.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Archivos\obj\Release\Archivos.csprojResolveAssemblyReference.cache
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Archivos\obj\Release\Archivos.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Archivos\obj\Release\Archivos.pdb

@@ -1,0 +1,78 @@
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\TestUnitario1.dll
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\TestUnitario1.pdb
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Archivos.dll
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Clases Abstractas.dll
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Clases Instanciables.dll
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Excepciones.dll
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\SalidaPorPantalla.exe
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Archivos.pdb
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Clases Abstractas.pdb
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Clases Instanciables.pdb
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Excepciones.pdb
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\SalidaPorPantalla.pdb
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\obj\Debug\TestUnitario1.csprojResolveAssemblyReference.cache
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\obj\Debug\TestUnitario1.dll
+E:\Begue.Alejandro.2D.TP3\TestUnitario1\obj\Debug\TestUnitario1.pdb
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\TestUnitario1.dll
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\TestUnitario1.pdb
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Archivos.dll
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Clases Abstractas.dll
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Clases Instanciables.dll
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Excepciones.dll
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\SalidaPorPantalla.exe
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Archivos.pdb
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Clases Abstractas.pdb
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Clases Instanciables.pdb
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\Excepciones.pdb
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\bin\Debug\SalidaPorPantalla.pdb
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\obj\Debug\TestUnitario1.csprojResolveAssemblyReference.cache
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\obj\Debug\TestUnitario1.dll
+F:\Begue.Alejandro.2D.TP3\TestUnitario1\obj\Debug\TestUnitario1.pdb
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\TestUnitario1.dll
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\TestUnitario1.pdb
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Archivos.dll
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Abstractas.dll
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Instanciables.dll
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Excepciones.dll
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\SalidaPorPantalla.exe
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Archivos.pdb
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Abstractas.pdb
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Instanciables.pdb
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Excepciones.pdb
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\SalidaPorPantalla.pdb
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Debug\TestUnitario1.csprojResolveAssemblyReference.cache
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Debug\TestUnitario1.dll
+C:\Users\MAQUINA\Desktop\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Debug\TestUnitario1.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\TestUnitario1.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\TestUnitario1.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Archivos.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Abstractas.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Instanciables.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Excepciones.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\SalidaPorPantalla.exe
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Archivos.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Abstractas.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Instanciables.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Excepciones.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\SalidaPorPantalla.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Debug\TestUnitario1.csprojResolveAssemblyReference.cache
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Debug\TestUnitario1.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Debug\TestUnitario1.pdb
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\TestUnitario1.dll
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\TestUnitario1.pdb
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Archivos.dll
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Abstractas.dll
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Instanciables.dll
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Excepciones.dll
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\SalidaPorPantalla.exe
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Archivos.pdb
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Abstractas.pdb
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Clases Instanciables.pdb
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\Excepciones.pdb
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\bin\Debug\SalidaPorPantalla.pdb
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Debug\TestUnitario1.csprojResolveAssemblyReference.cache
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Debug\TestUnitario1.dll
+F:\Begue.Alejandro.2D.TP3 (con Test Unitario)\TestUnitario1\obj\Debug\TestUnitario1.pdb

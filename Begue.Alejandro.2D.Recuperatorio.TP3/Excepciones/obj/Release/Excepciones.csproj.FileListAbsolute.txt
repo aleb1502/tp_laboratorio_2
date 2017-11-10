@@ -1,0 +1,5 @@
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Excepciones\bin\Release\Excepciones.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Excepciones\bin\Release\Excepciones.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Excepciones\obj\Release\Excepciones.dll
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Excepciones\obj\Release\Excepciones.pdb
+E:\Begue.Alejandro.2D.TP3 (con Test Unitario)\Excepciones\obj\Release\Excepciones.csprojResolveAssemblyReference.cache
